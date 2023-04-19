@@ -1,0 +1,16 @@
+.analysisPage{
+    background-color: #7a7676;
+    min-width: 100%;
+    display: flex;
+    flex-direction: column;
+    color: rgba(255, 255, 255, 0.521);
+    align-items: flex-start;
+    padding-left: 1rem;
+    box-sizing: border-box;
+}
+
+.result{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}

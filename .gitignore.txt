@@ -1,0 +1,1 @@
+JavaCronJob\src\main\resources\application.properties

@@ -1,0 +1,10 @@
+.dataPage {
+    background-color: #7a7676;
+    width: 70vw;
+    display: flex;
+    flex-direction: column;
+    color: rgba(255, 255, 255, 0.521);
+    align-items: flex-start;
+    padding-left: 1rem;
+
+}

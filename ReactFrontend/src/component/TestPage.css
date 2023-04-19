@@ -1,0 +1,31 @@
+.testPage {
+    background-color: #7a7676;
+    width: 70vw;
+    display: flex;
+    flex-direction: column;
+    color: rgba(255, 255, 255, 0.521);
+    align-items: flex-start;
+    padding-left: 1rem;
+}
+
+.small{
+    margin: 10px;
+    background-color: #7a7676;
+    color: white;
+    border: 1px solid wheat;
+    padding: 5px;
+}
+
+.selected{
+    background-color: white;
+    color: black;
+}
+
+.testing_row{
+    margin: 0px 0px 20px 0px;
+}
+
+.sample_row{
+    display: flex;
+    flex-wrap: wrap;
+}
